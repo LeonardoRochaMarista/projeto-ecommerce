@@ -39,9 +39,20 @@ nav#menu a:visited{
     color: antiquewhite;
     font-weight: bold;
 }
-nav#menu a:hover{
-    color: rgb(10, 15, 104);
-}
 nav#menu li:hover{
     background-color: rgb(19, 24, 126);
+}
+
+/* Manipulação de imagens do projeto, na página produtos */
+.produtos img{
+    max-width: 300px;
+
+}
+.produtos p{
+    color: white;
+    
+}
+
+.precoDesc{
+    font-size: 25px;
 }
